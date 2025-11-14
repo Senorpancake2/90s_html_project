@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-image: url("https://t3.ftcdn.net/jpg/06/01/09/42/360_F_601094258_fIlXtFEnrm2Y8Rz9BPA6RjPgA6vhy2eX.jpg");
+cursor: url("https://img.icons8.com/?size=100&id=102341&format=png&color=000000") 16, 16, auto
+}
+
+h1,h2{
+    background-color:cadetblue;
+}
+img{
+    width:500px;
+}
