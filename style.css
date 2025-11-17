@@ -1,7 +1,9 @@
 body{
     text-align: center;
     background-image: url("https://t3.ftcdn.net/jpg/06/01/09/42/360_F_601094258_fIlXtFEnrm2Y8Rz9BPA6RjPgA6vhy2eX.jpg");
-cursor: url("https://img.icons8.com/?size=100&id=4OBBWR7yQTRw&format=png&color=000000") 16, 16, auto
+cursor: url("https://img.icons8.com/?size=100&id=4OBBWR7yQTRw&format=png&color=000000") 16, 16, auto;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
 
 h1,h2,h3,h4,ol,table,p{
@@ -19,7 +21,7 @@ line-height: 1.5;
 }
 
 table{
-    line;
+    box-shadow: -5px 5px 6px rgb(41, 88, 230);
 }
 
 
@@ -40,4 +42,12 @@ img.car{
 img.Cars{
     text-align: left;
     width: 250px;
+}
+
+ol{
+    background-color: coral;
+}
+
+table{
+    background-color: goldenrod;
 }
