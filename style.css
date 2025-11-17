@@ -19,7 +19,7 @@ line-height: 1.5;
 }
 
 table{
-    border:10px
+    line;
 }
 
 
@@ -35,4 +35,9 @@ img.Tennis{
 img.car{
 
     width: 400px
+}
+
+img.Cars{
+    text-align: left;
+    width: 250px;
 }
